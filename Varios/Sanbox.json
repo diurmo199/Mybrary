@@ -1,0 +1,9 @@
+{
+    "company":  "Aptera Inc.",
+    "marCap":   500000,
+    "numberEmployees":  200,
+    "caractheristics": {
+        "color":    "blue",
+        "size": "XXL"
+    }
+}
